@@ -1,0 +1,82 @@
+#root {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(135deg, #497d54, #73C088, #ABE0B7);
+}
+
+#lname {
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: bold;
+  color: #ABE087;
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+nav{
+  height: 15vh;
+  display: flex;
+  background-color: #397D54;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/*link*/
+nav a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+nav a:hover {
+  color: #ABE087;
+}
+
+#hjeff{
+  margin-top: 150px;
+  margin-bottom: 20px;
+  font-size: 100px;
+  font-family: "Times New Roman",serif;
+}
+
+#softdev{
+  font-family:"Lucida Handwriting" ,cursive;
+  margin-top: auto;
+  font-size: 30px;
+}
+
+#abtme{
+  font-family: "Times New Roman",serif;
+  text-transform: uppercase;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-bottom: 0%;
+  font-size: 40px;
+}
+
+#qoutes{
+  margin-top: 0%;
+  margin-left: 20px;
+}
+
+img {
+  margin: auto;
+  width: 10%;
+  clip-path: circle(50%);
+}
+
+.box {
+  display: inline-block;
+  background-color: #497d54;
+  padding: 20px;
+  width: 277px;
+  height: 195px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.9);
+  vertical-align: top;
+}
+
+a{
+  text-decoration: none;
+}

@@ -6,7 +6,7 @@ const About = () => {
             <div>
                 <h1 id='abtme'>About me</h1>
                 <p id='qoutes'>Know me well.</p>
-                <center><img src="jeff.jpg"/></center>
+                <center><img src="jeff.jpg" alt="profile"/></center>
             </div>
 
             <div>

@@ -6,7 +6,7 @@ const Contact = () => {
             <div>
                 <h1 id='abtme'>Get In Touch</h1>
                 <p id='qoutes'>Want to connect?</p>
-                <center><img src="jeff.jpg"/></center>
+                <center><img src="jeff.jpg" alt='profile'/></center>
             </div>
 
             <div>
@@ -26,8 +26,8 @@ const Contact = () => {
                 </div>
                 <div className="box">
                     <h3>Social Media</h3>
-                    <p><strong>Facebook:</strong></p><p><a href="https://www.facebook.com/jeffrey.aguasan.29" target="_blank">Facebook</a></p>
-                    <p><strong>GitHub:</strong></p><p><a href="https://github.com/Aguasanjeffff" target="_blank">GitHub</a></p>
+                    <p><strong>Facebook:</strong></p><p><a href="https://www.facebook.com/jeffrey.aguasan.29" target="_blank" rel='noreferrer'>Facebook</a></p>
+                    <p><strong>GitHub:</strong></p><p><a href="https://github.com/Aguasanjeffff" target="_blank" rel='noreferrer'>GitHub</a></p>
                 </div>
             </div>
 
